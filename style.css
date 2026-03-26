@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+.title {
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+
+img{
+    display: block;
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid brown;
+
+}
+
+ul {
+    font-family: sans-serif;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    
+}
+
+li {
+    margin: 5px;
+}
+
+.link-list a {
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding: 1em 2em;
+    border-bottom: solid 5px rgba(197, 85, 85, 0.568);
+    
+}
+
